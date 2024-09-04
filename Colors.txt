@@ -1,0 +1,10 @@
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+Teal
+Cerulean
+Sea Green
